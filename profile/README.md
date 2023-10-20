@@ -1,4 +1,4 @@
-![](./banner.png)
+![](https://raw.githubusercontent.com/Sapiens-OSS/.github/main/profile/banner.png)
 # Sapiens Modding Community
 Sapiens OSS/Sapiens Modding Community is the largest open-source modding community for the [Sapiens video game](https://playsapiens.com/). We develop and maintain several tools and frameworks commonly used in Sapiens modding, and we provide support and resources to modders. 
 
